@@ -1,0 +1,82 @@
+
+.slider-section{
+	padding-bottom: 50px;
+}
+
+
+.blog-inner{
+	padding: 25px 25px;
+	text-align: center;
+	border: 1px solid #ddd;
+	box-shadow: 1px 1px 3px 0;
+	border-radius: 10px;
+}
+.blog-inner p{
+	text-align: justify;
+}
+
+
+.About{
+	padding: 52px;
+}
+
+
+
+.abouthead{
+	font-size: 50px;
+	text-align: center;
+}
+.about-right{
+	text-align: justify;
+}
+.instant{
+
+}
+.instant ul{
+	list-style: none;
+	display: inline-block;
+	overflow: hidden;
+}
+.instant ul li i{
+	padding-right: 10px;
+}
+.contact-right,
+.contact-left{
+	border: 1px solid green;
+	background: #fff;
+	height: 450px;
+	padding: 20px;
+	box-shadow: -1px 0px 6px #00000094;;
+}
+
+.form-control{
+	border: 1px solid red;
+}
+.formd input{
+	border: 1px solid #E44343;
+}
+.button{
+	margin-top: 10px
+}
+.social-media{
+	display: inline-block;
+	padding-top: 50px;
+}
+.social-media ul li{
+	float: left;
+	list-style: none;
+
+}
+.social-media p{
+	font-size: 30px;
+}
+.social-media ul li a i{
+	margin-right: 20px;
+	border: 1px solid red;
+	border-radius: 50%;
+	text-align: center;
+	height: 40px;
+	line-height: 40px;
+	width: 40px;
+	color: red;
+}
